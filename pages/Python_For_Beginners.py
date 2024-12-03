@@ -4,7 +4,7 @@ from streamlit_option_menu import option_menu
 
 st.set_page_config(page_title="Python For Beginners", page_icon=":books:", layout="wide")
 
-github_path = "https://raw.githubusercontent.com/Chase-Yi/Creative-Python-Studio-by-Chase/refs/heads/main/Python%20For%20Beginners/image"
+github_path = "https://raw.githubusercontent.com/Chase-Yi/Python-For-Beginners/refs/heads/main/image"
 
 @st.cache_data
 def load_image(image_path):
