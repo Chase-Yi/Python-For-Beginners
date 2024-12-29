@@ -1,5 +1,7 @@
 [Python For Beginners Website](https://python-for-beginners-chase.streamlit.app/)
 
+[Python For Beginners - Code Explanation - Step-by-Step Tutorial](https://github.com/Chase-Yi/Python-For-Beginners/blob/main/step_by_step_tutorial.md)
+
 This Python project is designed to serve as a comprehensive learning tool for beginners in programming, focusing on Python. It provides an interactive web-based platform for users to write, run, and experiment with Python code, along with detailed explanations and examples for various programming concepts. The project utilizes the Streamlit framework to create a user-friendly interface and incorporates several features to enhance the learning experience:
 
 - **Interactive Code Editor**: Users can write Python code in a web-based code editor, with options to select themes, font sizes, and programming languages.
